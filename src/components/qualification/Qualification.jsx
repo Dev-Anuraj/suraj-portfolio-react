@@ -150,7 +150,7 @@ const Qualification = () => {
                     Shri R S Dubey Adarsh Vidyalay Nalasopara, Mumbai
                   </span>
                   <div className="qualification__calender">
-                    <i className="uil uil-calendar-alt"></i>2024- Present
+                    <i className="uil uil-calendar-alt"></i>2007- 2015
                   </div>
                 </motion.div>
 
